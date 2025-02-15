@@ -17,7 +17,7 @@ Movie Library is a simple yet powerful **React-based application** that allows u
 - 🎨 **Responsive UI** – Styled using Tailwind CSS
 
 ## 📸 Screenshots
-*(You can upload some screenshots here to showcase the UI!)*
+![Movie Library Screenshot](https://github.com/aakritrajput/movie-library/blob/main/screenshots/Screenshot%202025-02-12%20102617.png)
 
 ## 📦 Installation & Setup
 To run the Movie Library locally, follow these steps:
